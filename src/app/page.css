@@ -1,0 +1,22 @@
+
+body{
+background:black;
+}
+
+
+h1{
+  color: beige;
+  justify-content: center;
+  margin-left: 400px;
+  margin-top: 200px;
+  font-weight: 200;
+}
+p{
+  justify-content: center;
+  font-size: medium;
+  font-style: normal;
+  font-family: ' Calibri,';
+  color: rgb(252, 251, 250);
+  margin-left: 400px;
+  margin-top: 2px;
+}
