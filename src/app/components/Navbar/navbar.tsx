@@ -7,7 +7,7 @@ export default function Navbar() {
     <nav>
     
       <ul>
-      <li> <p className="me">Marquis.</p></li>
+      <li> <p className="me">Marquis</p></li>
         <li>
           
           <Link href="./">Home</Link>
